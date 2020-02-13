@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# My personalized venv
+calculator/
 
 # Spyder project settings
 .spyderproject
